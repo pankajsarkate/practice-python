@@ -7,3 +7,6 @@ This is the second line to check the code
 
 
 additional code for the project
+
+
+(second) addition of the project is created
